@@ -1,6 +1,9 @@
 # Pilvo_Ass
 
-#Unzip file and run Pilvo feature file.
-#All test case written in XLS file 
-#Pilvo is for PIlvo 
-#Chhanel is for Channel
+
+## Description
+
+Please Unzip file and inside one more file miske added so unzip thats file Once done.
+Then open in any editor.
+Case : for creating csv and out text file put hard code so you can replace that.
+      Now all dependency update successfully then run test/Feature -> Plivo.feature file run that file
